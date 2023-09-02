@@ -1,0 +1,4 @@
+openai
+streamlit
+streamlit-authenticator==0.1.5
+boto3
